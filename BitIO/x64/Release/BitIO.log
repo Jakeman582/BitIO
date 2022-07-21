@@ -1,0 +1,4 @@
+﻿  Using triplet "x64-windows" from "C:\Users\jakeh\vcpkg\installed\x64-windows\"
+  BitReader.cpp
+  BitWriter.cpp
+  BitIO.vcxproj -> C:\Users\jakeh\source\repos\BitIO\x64\Release\BitIO.lib
